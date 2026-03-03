@@ -1,4 +1,4 @@
-# AMA – 23/02/2026
+# AMA - 23/02/2026
 
 **Q1. What is the difference between List and Tuple?**  
 Ans: List is mutable and defined using []. Tuple is immutable and defined using ().
